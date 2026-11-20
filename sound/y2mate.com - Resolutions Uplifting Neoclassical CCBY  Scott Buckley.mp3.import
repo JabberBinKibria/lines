@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/y2mate.com - Resolutions Uplifting Neoclassical CCBY  Scott Buckley.mp3-42b836bdaed69b1798332becfe523773.mp3str"
+
+[deps]
+
+source_file="res://sound/y2mate.com - Resolutions Uplifting Neoclassical CCBY  Scott Buckley.mp3"
+dest_files=[ "res://.import/y2mate.com - Resolutions Uplifting Neoclassical CCBY  Scott Buckley.mp3-42b836bdaed69b1798332becfe523773.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
